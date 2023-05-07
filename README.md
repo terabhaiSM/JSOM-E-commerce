@@ -1,4 +1,5 @@
-# e-commerce-store
+# JSOM-E-commerce
+Deployed on (https://e-commerce-store-p8l50kf5y-mohitsojitra.vercel.app/)
 
 **I have used free hosting for deployement, so it might take large response time and some time its down, So please run this project on local system for checking.**
 
