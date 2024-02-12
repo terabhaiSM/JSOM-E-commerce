@@ -19,5 +19,5 @@ Deployed on (https://e-commerce-store-p8l50kf5y-mohitsojitra.vercel.app/)
 
 <br />
 
-**NOTE** : If you want to contact then contact me on LinkedIn (https://www.linkedin.com/in/mradul-singh-35042a19b)
+**NOTE** : If you want to contact then contact me on LinkedIn 
 
